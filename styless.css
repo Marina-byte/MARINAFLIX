@@ -1,0 +1,43 @@
+body {
+    color: brown;
+    background: coral;
+    margin: 15px; 
+font-family: "Noto Serif Display";
+
+}
+
+header {border-bottom:solid 4px brown;
+    padding: 20px;
+    font-size: 40px;
+    color: rgb(131, 16, 53);
+font-family:"Playball" ;}
+
+    section {
+        background: rgb(240, 114, 68);
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+    }
+        
+.texto1 {
+        margin-right: 5%;
+    }
+    h1 {
+        font-size: 40px;
+      }
+      p {
+        font-size: 20px;
+      }
+
+      img {
+        height: 200px;
+      }
+
+     .categoria-músicas {
+        display: flex;
+        overflow-x: auto;
+        gap: 10px;
+     }
+
+     
